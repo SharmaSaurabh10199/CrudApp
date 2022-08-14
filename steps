@@ -1,0 +1,9 @@
+1) install mongoDb, mongoose, express for routing and storage purposes:
+
+2) All the api calls : 
+
+GET: http://localhost:8000/users
+GET: http://localhost:8000/users/id   // for a perticular user
+POST: http://localhost:8000/users      
+PATCH: http://localhost:8000/users/id
+DELETE: http://localhost:8000/users/id  // to delete a perticular user from database:
